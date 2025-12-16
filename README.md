@@ -2,8 +2,8 @@
 
 My full name is `Pham Ho Anh Tuan`, but my friends often call me `Pham Tuan`.
 
-- 🎓 I'm studying at HCM University of Technology.
-- 🌱 I’m currently learning Electronics and Telecommunication.
+- 🎓 I'm studied at HCM University of Technology.
+- 🌱 I’m currently being Hardware Engineering at Viettel High Tech.
 
 <h4 align="left">Languages:</h4>
 <p><a target="_blank" rel="noreferrer"> 
