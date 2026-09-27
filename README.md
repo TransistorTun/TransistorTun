@@ -3,7 +3,7 @@
 - 🔬 Currently working as a **Hardware Design Engineer** at **Viettel High Tech (VHT)**
 - 🎓 Pursuing an **M.Sc. in Telecommunications Engineering** — Research focus on **Antenna & RF Circuit Design**
 - ⚡ Specialized in **High-Speed Multi-layer PCB Design, Signal Integrity (SI), RF/Microwave Circuits, and Embedded Hardware**
-- 🌱 B.Eng. in Electronics & Telecommunications at **Ho Chi Minh City University of Technology (HCMUT)** & Member of **Pay It Forward Club (PIF)**
+- 🌱 B.Eng. in Electronics & Telecommunications at **Ho Chi Minh City University of Technology (HCMUT)**
 
 ---
 
@@ -49,14 +49,11 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TransistorTun&theme=github_dark" width="620" alt="Pham Tuan's Contribution Graph" />
     </td>
     <td width="28%" align="center" valign="middle">
-      <img width="100" src="./Icons/VHT.png" alt="Viettel High Tech"/><br/>
+      <img width="125" src="./Icons/VHT.png" alt="Viettel High Tech"/><br/><br/>
       <sub><b>Viettel High Tech</b></sub>
-      <br/><br/>
-      <img width="95" src="./Icons/bku.ico" alt="HCMUT"/><br/>
+      <br/><br/><br/><br/>
+      <img width="115" src="./Icons/bku.ico" alt="HCMUT"/><br/><br/>
       <sub><b>HCM University of Technology</b></sub>
-      <br/><br/>
-      <img width="75" src="./Icons/PIF_Leaf.png" alt="Pay It Forward"/><br/>
-      <sub><b>Pay It Forward Club</b></sub>
     </td>
   </tr>
 </table>
