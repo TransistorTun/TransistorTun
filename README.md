@@ -44,15 +44,15 @@
 <table width="100%">
   <tr>
     <td width="72%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TransistorTun&theme=github_dark" width="450" alt="Pham Tuan's GitHub Stats" />
-      <br/><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TransistorTun&theme=github_dark" width="310" alt="Pham Tuan's GitHub Stats" />
+      <br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TransistorTun&theme=github_dark" width="620" alt="Pham Tuan's Contribution Graph" />
     </td>
     <td width="28%" align="center" valign="middle">
-      <img width="125" src="./Icons/VHT.png" alt="Viettel High Tech"/><br/><br/>
+      <img width="115" src="./Icons/VHT.png" alt="Viettel High Tech"/><br/><br/>
       <sub><b>Viettel High Tech</b></sub>
-      <br/><br/><br/><br/>
-      <img width="115" src="./Icons/bku.ico" alt="HCMUT"/><br/><br/>
+      <br/><br/><br/>
+      <img width="105" src="./Icons/bku.ico" alt="HCMUT"/><br/><br/>
       <sub><b>HCM University of Technology</b></sub>
     </td>
   </tr>
