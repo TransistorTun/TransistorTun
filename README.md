@@ -1,18 +1,25 @@
 <h2 align="left">Hi there, I'm Pham Ho Anh Tuan (Pham Tuan) 👋</h2>
 
 - 🔬 Currently working as a **Hardware Design Engineer** at **Viettel High Tech (VHT)**
-- ⚡ Focused on **Schematic Capture, High-Speed & Multi-layer PCB Design, and Embedded Hardware Systems**
-- 🎓 Alumnus at **Ho Chi Minh City University of Technology (HCMUT)** & **Pay It Forward Club (PIF)**
+- 🎓 Pursuing an **M.Sc. in Telecommunications Engineering** — Research focus on **Antenna & RF Circuit Design**
+- ⚡ Specialized in **High-Speed Multi-layer PCB Design, Signal Integrity (SI), RF/Microwave Circuits, and Embedded Hardware**
+- 🌱 B.Eng. in Electronics & Telecommunications at **Ho Chi Minh City University of Technology (HCMUT)** & Member of **Pay It Forward Club (PIF)**
 
 ---
 
-### 🛠️ Hardware & Embedded Tech Stack
+### 🛠️ Hardware, RF & Embedded Tech Stack
 
-<h4 align="left">🔌 Electronic Design Automation (EDA) & PCB Design:</h4>
+<h4 align="left">🔌 PCB Design & Electronic Design Automation (EDA):</h4>
 <p align="left">
   <img src="./Icons/cadence.png" alt="Cadence OrCAD / Allegro" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Icons/altium_designer.png" alt="Altium Designer" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="./Icons/kicad.png" alt="KiCad" width="40" height="40"/>
+</p>
+
+<h4 align="left">📡 RF, Antenna & Signal Integrity (SI) Simulation:</h4>
+<p align="left">
+  <img src="./Icons/ADS.jpg" alt="Keysight ADS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="./Icons/Ansys.jpg" alt="Ansys HFSS / SIwave" height="40"/>
 </p>
 
 <h4 align="left">💻 Firmware, MCU & Development Tools:</h4>
@@ -37,7 +44,7 @@
 <table width="100%">
   <tr>
     <td width="72%" align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api?username=TransistorTun&show_icons=true&theme=transparent&custom_title=Pham%20Tuan%20GitHub%20Stats&rank_icon=github&hide_border=true&icon_color=1488D8&title_color=1488D8&ring_color=1488D8&text_color=1488D8" width="480" alt="Pham Tuan's GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TransistorTun&theme=github_dark" width="450" alt="Pham Tuan's GitHub Stats" />
       <br/><br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TransistorTun&theme=github_dark" width="620" alt="Pham Tuan's Contribution Graph" />
     </td>
